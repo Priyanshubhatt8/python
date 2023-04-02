@@ -1,0 +1,1 @@
+hero=input("Your favrouite hero name")
